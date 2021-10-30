@@ -1,1 +1,0 @@
-SELECT * FROM practico_db.categorias;
